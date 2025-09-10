@@ -42,7 +42,9 @@ def starte_spiel(state):
                 "Opa geht in die Kneipe",
                 "Lutz schrumpft",
                 "Anton hat keine Zeit",
-                "Adrian ohne die Mediatek"
+                "Adrian ohne die Mediatek",
+                "Oma ohne Bille",
+                "Hilde ohne Günter"
             ]
 
             
